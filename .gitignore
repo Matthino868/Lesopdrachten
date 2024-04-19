@@ -1,0 +1,6 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.ipynb_checkpoints
+*.jpg
